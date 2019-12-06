@@ -1,0 +1,14 @@
+{
+  "privateKey": "private",
+  "mongo": {
+    "username": "username",
+    "password": "password;",
+    "host": "localhost",
+    "port": 222222,
+    "database": "database"
+  },
+  "administrator": {
+    "name": "name",
+    "password": "password"
+  }
+}
